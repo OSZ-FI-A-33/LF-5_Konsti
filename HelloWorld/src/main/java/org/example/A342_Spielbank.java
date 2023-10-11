@@ -7,10 +7,10 @@ public class A342_Spielbank {
         /*
         Variablen vergeben
          */
-        int fünf;
+        int fuenf;
         int zehn;
         int zwanzig;
-        int fünfzig;
+        int fuenfzig;
         int hundert;
 
 
@@ -21,23 +21,23 @@ public class A342_Spielbank {
         Ausgaben; eingaben erfassen
          */
         System.out.print("Anzahl an 5 Euro Chips: ");
-        fünf = input.nextInt();
+        fuenf = input.nextInt();
         System.out.print("Anzahl an 10 Euro Chips: ");
         zehn = input.nextInt();
         System.out.print("Anzahl an 20 Euro Chips: ");
         zwanzig = input.nextInt();
         System.out.print("Anzahl an 50 Euro Chips: ");
-        fünfzig = input.nextInt();
+        fuenfzig = input.nextInt();
         System.out.print("Anzahl an 100 Euro Chips: ");
         hundert = input.nextInt();
 
         /*
         errechnen der beträge
          */
-        int chip5 = fünf * 5;
+        int chip5 = fuenf * 5;
         int chip10 = zehn * 10;
         int chip20 = zwanzig * 20;
-        int chip50 = fünfzig * 50;
+        int chip50 = fuenfzig * 50;
         int chip100 = hundert * 100;
 
         int ergebnis = chip5 + chip10 + chip20 + chip50 + chip100; // Gesamtanzahl berechnen
