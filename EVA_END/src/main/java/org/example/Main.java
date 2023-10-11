@@ -11,6 +11,7 @@ public class Main {
         int ergebnis2;
         int ergebnis3;
         int ergebnis4;
+        int rest;
         // Tastatureinagbe erfassen mit Scanner
         Scanner tastatur = new Scanner(System.in);
         // Eingaben abfragen und in die Variablen geben
@@ -30,7 +31,7 @@ public class Main {
         System.out.println("Quozient:" + ergebnis3);
         System.out.println("Differenz:" + ergebnis4);
         // Rest
-        double rest = zahl1 - (zahl2 * (zahl1/zahl2));
+        rest = zahl1 % zahl2;
         System.out.println("Der rest beträgt: " + rest);
         // Programme beenden
         tastatur.close();
