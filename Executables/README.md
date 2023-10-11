@@ -1,6 +1,6 @@
 # Here are executable files of my projects!
 
-## [Documentation](docs/documentation.md)
+## Documentation:
 
 ### To execute my Programs you need to:
 ```
@@ -8,7 +8,9 @@ java -jar <name>.jar
 ```
 
 
-## Projects:
+### Projects:
 - "Hello World"
-  - - [x] #5
 - 
+
+### Issues
+- [x] #5
