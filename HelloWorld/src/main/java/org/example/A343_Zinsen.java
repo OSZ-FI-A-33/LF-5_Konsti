@@ -42,6 +42,6 @@ public class A343_Zinsen {
          */
         System.out.println("Der Investor hat insgesamt " + k_1 + " Euro erhalten.");
         System.out.println("Der Investor hat insgesamt " + zinseszinz + " Euro erhalten (mit Zinseszins)");
-
+        Main.activate();
     }
 }
