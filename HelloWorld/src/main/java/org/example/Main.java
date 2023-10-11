@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         String user;
         Scanner input = new Scanner(System.in);
-        System.out.print("Was möchtest du machen: Spielbank, Zinsen, Rechteck?: ");
+        System.out.print("Was möchtest du machen: \"Spielbank\", \"Zinsen\", \"Rechteck\"?: ");
         user = input.next();
         if (user.equals("Spielbank")){
             A342_Spielbank.main();
