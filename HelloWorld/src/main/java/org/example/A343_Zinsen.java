@@ -3,7 +3,7 @@ package org.example;
 import java.util.Scanner;
 
 public class A343_Zinsen {
-    public static void main(String[] args) {
+    public static void main() {
         /*
         Variablen vergeben
          */
