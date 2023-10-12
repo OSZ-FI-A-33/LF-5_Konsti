@@ -43,7 +43,7 @@ public class A342_Spielbank {
         int ergebnis = chip5 + chip10 + chip20 + chip50 + chip100; // Gesamtanzahl berechnen
 
         System.out.println("Ihr Auszahlungsbetrag beträgt: " + ergebnis); // Ergebnis ausgeben
-
+        Main.activate();
     }
 
 }

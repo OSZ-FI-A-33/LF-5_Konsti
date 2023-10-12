@@ -24,7 +24,7 @@ public class A341_Rechteck {
 
         System.out.println("Umfang: " + umfang + " cm"); // Ausagbe
         System.out.println("Flaeche: " + fleache + " cm^2"); // Ausgabe
-
+        Main.activate();
     }
 
 }

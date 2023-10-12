@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="HelloWorld">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloWorld</output-path>
+    <root id="root">
+      <element id="archive" name="HelloWorld.jar">
+        <element id="module-output" name="HelloWorld.main" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
