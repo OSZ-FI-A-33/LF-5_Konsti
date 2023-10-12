@@ -12,5 +12,6 @@ java -jar <name>.jar
 - "Hello World"
 - 
 
-### Issues
-- [x] #5
+### Onformation 
+> [!Note]
+> The executables are written in Java Coretto-19.
