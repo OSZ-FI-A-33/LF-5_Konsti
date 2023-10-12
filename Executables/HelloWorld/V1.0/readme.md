@@ -4,5 +4,5 @@
 > This is for educational Purposes only
 
 ### Author
-Konstantin Beug
-beug.kon@outlook.de
+Konstantin Beug\n
+(beug.kon@outlook.de)
