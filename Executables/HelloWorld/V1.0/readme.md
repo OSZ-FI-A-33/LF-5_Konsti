@@ -4,4 +4,4 @@
 > This is for educational Purposes only
 
 ### Author
-[!Konstantin Beug]
+[![Konstantin Beug]()](https://github.com/sindresorhus/awesome)
