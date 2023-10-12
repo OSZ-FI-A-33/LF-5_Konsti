@@ -4,4 +4,4 @@
 > This is for educational Purposes only
 
 ### Author
-[![Awesome](https://github.com/sindresorhus/awesome/blob/main/media/logo.png)](https://github.com/sindresorhus/awesome)
+[![](https://github.com/sindresorhus/awesome/blob/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
