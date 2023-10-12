@@ -8,7 +8,10 @@ java -jar <name>.jar
 ```
 
 
-## Projects:
+### Projects:
 - "Hello World"
-  - - [x] #5
 - 
+
+### Onformation 
+> [!Note]
+> The executables are written in Java Coretto-19.
